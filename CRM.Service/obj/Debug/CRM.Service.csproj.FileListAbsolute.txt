@@ -1,0 +1,6 @@
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\bin\Debug\CRM.Service.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\bin\Debug\CRM.Service.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\obj\Debug\CRM.Service.csproj.AssemblyReference.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\obj\Debug\CRM.Service.csproj.CoreCompileInputs.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\obj\Debug\CRM.Service.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service\obj\Debug\CRM.Service.pdb
