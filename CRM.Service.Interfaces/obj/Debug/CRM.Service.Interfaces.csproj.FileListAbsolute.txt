@@ -1,0 +1,6 @@
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\bin\Debug\CRM.Service.Interfaces.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\bin\Debug\CRM.Service.Interfaces.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\obj\Debug\CRM.Service.Interfaces.csproj.AssemblyReference.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\obj\Debug\CRM.Service.Interfaces.csproj.CoreCompileInputs.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\obj\Debug\CRM.Service.Interfaces.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Service.Interfaces\obj\Debug\CRM.Service.Interfaces.pdb

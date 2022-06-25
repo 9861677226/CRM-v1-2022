@@ -1,0 +1,9 @@
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\bin\Debug\CRM.Data.Interfaces.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\bin\Debug\CRM.Data.Interfaces.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\bin\Debug\Dapper.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\bin\Debug\Dapper.xml
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.csproj.AssemblyReference.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.csproj.CoreCompileInputs.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.csproj.CopyComplete
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.pdb
