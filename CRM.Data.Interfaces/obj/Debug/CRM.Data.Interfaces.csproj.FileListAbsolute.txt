@@ -7,3 +7,4 @@ C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interface
 C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.csproj.CopyComplete
 C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.dll
 C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\obj\Debug\CRM.Data.Interfaces.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data.Interfaces\bin\Debug\System.ComponentModel.Annotations.dll

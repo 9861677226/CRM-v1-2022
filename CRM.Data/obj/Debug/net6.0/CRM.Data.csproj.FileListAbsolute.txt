@@ -1,0 +1,15 @@
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\bin\Debug\net6.0\CRM.Data.deps.json
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\bin\Debug\net6.0\CRM.Data.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\bin\Debug\net6.0\CRM.Data.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\bin\Debug\net6.0\CRM.Data.Interfaces.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\bin\Debug\net6.0\CRM.Data.Interfaces.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.csproj.AssemblyReference.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.AssemblyInfoInputs.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.AssemblyInfo.cs
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.csproj.CoreCompileInputs.cache
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.csproj.CopyComplete
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\refint\CRM.Data.dll
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\CRM.Data.pdb
+C:\My Workspace\CRM-v1-2022\CRM\CRM.Data\obj\Debug\net6.0\ref\CRM.Data.dll

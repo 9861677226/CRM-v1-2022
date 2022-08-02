@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data\\CRM.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data.Interfaces\\CRM.Data.Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data.Interfaces\\CRM.Data.Interfaces.csproj",
+        "projectName": "CRM.Data.Interfaces",
+        "projectPath": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data.Interfaces\\CRM.Data.Interfaces.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data\\CRM.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "projectName": "CRM.Data",
+        "projectPath": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "packagesPath": "C:\\Users\\DKM\\.nuget\\packages\\",
+        "outputPath": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DKM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data.Interfaces\\CRM.Data.Interfaces.csproj": {
+                "projectPath": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Data.Interfaces\\CRM.Data.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Data.Interfaces", "CRM.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Service.Interfaces", "CRM.Service.Interfaces\CRM.Service.Interfaces.csproj", "{8D46B339-341C-4302-98CA-086C301C0AC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Data", "CRM.Data\CRM.Data.csproj", "{09E71358-3BC5-44F2-9E81-74CD2AB1A640}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Data", "CRM.Data\CRM.Data.csproj", "{6FD22466-51C4-453E-A575-FD0C52EE32F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +59,10 @@ Global
 		{8D46B339-341C-4302-98CA-086C301C0AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D46B339-341C-4302-98CA-086C301C0AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D46B339-341C-4302-98CA-086C301C0AC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09E71358-3BC5-44F2-9E81-74CD2AB1A640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09E71358-3BC5-44F2-9E81-74CD2AB1A640}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09E71358-3BC5-44F2-9E81-74CD2AB1A640}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09E71358-3BC5-44F2-9E81-74CD2AB1A640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD22466-51C4-453E-A575-FD0C52EE32F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD22466-51C4-453E-A575-FD0C52EE32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD22466-51C4-453E-A575-FD0C52EE32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD22466-51C4-453E-A575-FD0C52EE32F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

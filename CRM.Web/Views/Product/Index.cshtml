@@ -1,0 +1,110 @@
+﻿
+
+<div class="container">
+
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Add New Product</button><br /><br />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Product ID
+                </th>
+                <th>
+                    Company Name
+                </th>
+                <th>
+                    Category Name
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Product Desc
+                </th>
+                <th>
+                    MRP
+                </th>
+                <th>
+                    Stock
+                </th>
+                <th>
+                    FinYear
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tbody">
+        </tbody>
+    </table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" onclick="return clearTextBox();">×</button>
+
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <select id="ddlFinYr" name="FinYear" class="form-control">
+                            <option value="0">--Select FinYear--</option>
+                            <option value="2021-2022">2021-2022</option>
+                            <option value="2022-2023">2022-2023</option>
+                        </select>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col">
+                            <label for="ProductId">ProductId</label>
+                            <input type="text" id="ProductId" class="form-control" disabled="disabled" />
+                        </div>
+                        <div class="col">
+                            <label for="CompanyName">CompanyName</label>
+                            <select id="ddlCompany" name="CompanyId" class="form-control" onchange="getAllCategory()">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col">
+                            <label for="CategoryName">CategoryName</label>
+                            <select id="ddlCategory" name="CategoryId" class="form-control"> </select>
+                        </div>
+                        <div class="col">
+                            <label for="ProductName">ProductName</label>
+                            <input type="text" class="form-control" id="ProductName" placeholder="ProductName" />
+
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col">
+                            <label for="ProductDesc">ProductDesc</label>
+                            <input type="text" class="form-control" id="ProductDesc" placeholder="ProductDesc" />
+                        </div>
+                        <div class="col">
+                            <label for="MRP">MRP</label>
+                            <input type="text" class="form-control" id="ProductMRP" placeholder="ProductMRP" />
+
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col">
+                            <label for="Stock">Stock</label>
+                            <input type="text" class="form-control" id="Stock" placeholder="Stock" />
+                        </div>
+                        <div class="col">
+                         
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Add</button>
+                <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" onclick="return clearTextBox();">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script src="/customjs/product.js" type="text/javascript"></script>
+}

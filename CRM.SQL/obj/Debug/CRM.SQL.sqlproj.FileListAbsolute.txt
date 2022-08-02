@@ -2,9 +2,5 @@ C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\bin\Debug\CRM.SQL.dacpac
 C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\bin\Debug\CRM.SQL.dll
 C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\bin\Debug\CRM.SQL.pdb
 C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\CRM.SQL.sqlproj.AssemblyReference.cache
-C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\Model.xml
-C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\refactor.xml
-C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\postdeploy.sql
-C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\predeploy.sql
 C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\CRM.SQL.dll
 C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\obj\Debug\CRM.SQL.pdb
