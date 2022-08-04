@@ -1,0 +1,87 @@
+04-08-2022 15:18:23	This log contains information about the import schema operation into project 'CRM.SQL' on computer 'DESKTOP-JQ13BKS' by user 'DKM'.
+04-08-2022 15:18:24	Import of database schema has started.
+04-08-2022 15:18:48	Gathering database credentials
+04-08-2022 15:18:48	Gathering database options
+04-08-2022 15:18:48	Gathering generic database scoped configuration option
+04-08-2022 15:18:48	Gathering users
+04-08-2022 15:18:48	Gathering roles
+04-08-2022 15:18:48	Gathering application roles
+04-08-2022 15:18:48	Gathering role memberships
+04-08-2022 15:18:48	Gathering filegroups
+04-08-2022 15:18:48	Gathering full-text catalogs
+04-08-2022 15:18:48	Gathering assemblies
+04-08-2022 15:18:48	Gathering certificates
+04-08-2022 15:18:48	Gathering asymmetric keys
+04-08-2022 15:18:48	Gathering symmetric keys
+04-08-2022 15:18:48	Gathering encrypted symmetric keys
+04-08-2022 15:18:48	Gathering schemas
+04-08-2022 15:18:48	Gathering XML schema collections
+04-08-2022 15:18:48	Gathering user-defined data types
+04-08-2022 15:18:48	Gathering user-defined types
+04-08-2022 15:18:48	Gathering table types
+04-08-2022 15:18:48	Gathering unique keys for table types
+04-08-2022 15:18:48	Gathering primary keys for table types
+04-08-2022 15:18:48	Gathering indexes for table types
+04-08-2022 15:19:04	Gathering check constraints for table types
+04-08-2022 15:19:04	Gathering default constraints for table types
+04-08-2022 15:19:04	Gathering partition functions
+04-08-2022 15:19:05	Gathering partition schemes
+04-08-2022 15:19:05	Gathering functions
+04-08-2022 15:19:05	Gathering encrypted functions
+04-08-2022 15:19:05	Gathering aggregates
+04-08-2022 15:19:05	Gathering procedures
+04-08-2022 15:19:30	Gathering encrypted procedures
+04-08-2022 15:19:55	Gathering tables
+04-08-2022 15:20:20	Gathering primary keys
+04-08-2022 15:20:20	Gathering unique constraints
+04-08-2022 15:20:20	Gathering foreign keys
+04-08-2022 15:20:20	Gathering default constraints
+04-08-2022 15:20:20	Gathering check constraints
+04-08-2022 15:20:20	Gathering views
+04-08-2022 15:20:20	Gathering encrypted views
+04-08-2022 15:20:20	Gathering indexes
+04-08-2022 15:20:20	Gathering statistics
+04-08-2022 15:20:20	Gathering full-text index stoplists
+04-08-2022 15:20:20	Gathering search property lists
+04-08-2022 15:20:20	Gathering search properties
+04-08-2022 15:20:20	Gathering full-text indexes
+04-08-2022 15:20:20	Gathering column store indexes
+04-08-2022 15:20:20	Gathering spatial indexes
+04-08-2022 15:20:20	Gathering XML indexes
+04-08-2022 15:21:19	Gathering Selective XML indexes
+04-08-2022 15:21:19	Gathering encrypted triggers
+04-08-2022 15:21:19	Gathering triggers
+04-08-2022 15:21:19	Gathering encrypted and clr ddl triggers
+04-08-2022 15:21:19	Gathering ddl triggers
+04-08-2022 15:21:19	Creating edge constraints
+04-08-2022 15:21:19	Gathering synonyms
+04-08-2022 15:21:19	Gathering defaults
+04-08-2022 15:21:19	Gathering data constraint uddt bindings
+04-08-2022 15:21:19	Gathering rules
+04-08-2022 15:21:19	Gathering data constraint uddt bindings
+04-08-2022 15:21:19	Gathering message types
+04-08-2022 15:21:19	Gathering queues
+04-08-2022 15:21:19	Gathering contracts
+04-08-2022 15:21:19	Gathering services
+04-08-2022 15:21:19	Gathering event notifications
+04-08-2022 15:21:19	Gathering remote service bindings
+04-08-2022 15:21:19	Gathering broker priorities
+04-08-2022 15:21:19	Gathering signatures
+04-08-2022 15:21:19	Gathering data compression options
+04-08-2022 15:21:19	Gathering sequence types
+04-08-2022 15:21:19	Gathering security policies
+04-08-2022 15:21:19	Gather column encryption keys
+04-08-2022 15:21:19	Gathering column master keys
+04-08-2022 15:21:19	Gathering external data sources
+04-08-2022 15:21:19	Gathering external file formats
+04-08-2022 15:21:19	Gathering external tables
+04-08-2022 15:21:20	Gathering extended properties
+04-08-2022 15:21:21	Gathering assemblies
+04-08-2022 15:21:24	Gathering credentials
+04-08-2022 15:21:24	Gathering logins
+04-08-2022 15:21:25	Gathering server audits
+04-08-2022 15:21:28	Scanning project for duplicate elements
+04-08-2022 15:21:28	Finished duplicate element processing
+04-08-2022 15:21:29	Finished importing database.
+04-08-2022 15:21:29	A summary of the import was saved to the following location: C:\My Workspace\CRM-v1-2022\CRM\CRM.SQL\Import Schema Logs\CRM.SQL_20220804094823.log
+04-08-2022 15:21:29	Click Finish to continue...

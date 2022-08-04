@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dbhByjMOXQMhNO4k5gokxtW9/PPXXmtVIYHtxf7zjJg=",
+  "Hash": "/3Qit4zK4qMM0MFReLviwNdvujNZcImWo76b7FNu26M=",
   "Source": "CRM.Web",
   "BasePath": "_content/CRM.Web",
   "Mode": "Default",
@@ -202,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\customjs\\company.js"
+    },
+    {
+      "Identity": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Web\\wwwroot\\customjs\\customer.js",
+      "SourceId": "CRM.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Web\\wwwroot\\",
+      "BasePath": "_content/CRM.Web",
+      "RelativePath": "customjs/customer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customjs\\customer.js"
     },
     {
       "Identity": "C:\\My Workspace\\CRM-v1-2022\\CRM\\CRM.Web\\wwwroot\\customjs\\product.js",

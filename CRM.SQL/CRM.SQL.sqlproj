@@ -13,7 +13,7 @@
     </RootPath>
     <RootNamespace>CRM.SQL</RootNamespace>
     <AssemblyName>CRM.SQL</AssemblyName>
-    <ModelCollation>1033, CI</ModelCollation>
+    <ModelCollation>1033,CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,6 +22,8 @@
     <SqlServerVerification>False</SqlServerVerification>
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseSet>True</TargetDatabaseSet>
+    <DefaultCollation>SQL_Latin1_General_CP1_CI_AS</DefaultCollation>
+    <DefaultFilegroup>PRIMARY</DefaultFilegroup>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -56,5 +58,18 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Stored Procedures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\t_company_master.sql" />
+    <Build Include="dbo\Tables\t_category_master.sql" />
+    <Build Include="dbo\Tables\t_stock_master.sql" />
+    <Build Include="dbo\Tables\t_customer_master.sql" />
+    <Build Include="dbo\Stored Procedures\usp_companymaster.sql" />
+    <Build Include="dbo\Stored Procedures\usp_categorymaster.sql" />
+    <Build Include="dbo\Stored Procedures\usp_stockmaster.sql" />
+    <Build Include="dbo\Stored Procedures\usp_customermaster.sql" />
   </ItemGroup>
 </Project>
